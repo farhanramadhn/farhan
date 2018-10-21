@@ -1,0 +1,18 @@
+F:\UTS_PerogramanVisual2_IK2_FarhanRamadhan\AppTansportReq\AppTansportReq\bin\Debug\AppTansportReq.exe
+F:\UTS_PerogramanVisual2_IK2_FarhanRamadhan\AppTansportReq\AppTansportReq\bin\Debug\AppTansportReq.pdb
+F:\UTS_PerogramanVisual2_IK2_FarhanRamadhan\AppTansportReq\AppTansportReq\bin\Debug\AppTansportReq.xml
+F:\UTS_PerogramanVisual2_IK2_FarhanRamadhan\AppTansportReq\AppTansportReq\obj\x86\Debug\AppTansportReq.Form1.resources
+F:\UTS_PerogramanVisual2_IK2_FarhanRamadhan\AppTansportReq\AppTansportReq\obj\x86\Debug\AppTansportReq.Resources.resources
+F:\UTS_PerogramanVisual2_IK2_FarhanRamadhan\AppTansportReq\AppTansportReq\obj\x86\Debug\Transportasi.vbproj.GenerateResource.Cache
+F:\UTS_PerogramanVisual2_IK2_FarhanRamadhan\AppTansportReq\AppTansportReq\obj\x86\Debug\AppTansportReq.exe
+F:\UTS_PerogramanVisual2_IK2_FarhanRamadhan\AppTansportReq\AppTansportReq\obj\x86\Debug\AppTansportReq.xml
+F:\UTS_PerogramanVisual2_IK2_FarhanRamadhan\AppTansportReq\AppTansportReq\obj\x86\Debug\AppTansportReq.pdb
+D:\My Document\GitHub\farhan\UTS_PerogramanVisual2_IK2\AppTansportReq\AppTansportReq\obj\x86\Debug\AppTansportReq.exe
+D:\My Document\GitHub\farhan\UTS_PerogramanVisual2_IK2\AppTansportReq\AppTansportReq\obj\x86\Debug\AppTansportReq.xml
+D:\My Document\GitHub\farhan\UTS_PerogramanVisual2_IK2\AppTansportReq\AppTansportReq\obj\x86\Debug\AppTansportReq.pdb
+D:\My Document\GitHub\farhan\UTS_PerogramanVisual2_IK2\AppTansportReq\AppTansportReq\bin\Debug\AppTansportReq.exe
+D:\My Document\GitHub\farhan\UTS_PerogramanVisual2_IK2\AppTansportReq\AppTansportReq\bin\Debug\AppTansportReq.pdb
+D:\My Document\GitHub\farhan\UTS_PerogramanVisual2_IK2\AppTansportReq\AppTansportReq\bin\Debug\AppTansportReq.xml
+D:\My Document\GitHub\farhan\UTS_PerogramanVisual2_IK2\AppTansportReq\AppTansportReq\obj\x86\Debug\AppTansportReq.Form1.resources
+D:\My Document\GitHub\farhan\UTS_PerogramanVisual2_IK2\AppTansportReq\AppTansportReq\obj\x86\Debug\AppTansportReq.Resources.resources
+D:\My Document\GitHub\farhan\UTS_PerogramanVisual2_IK2\AppTansportReq\AppTansportReq\obj\x86\Debug\Transportasi.vbproj.GenerateResource.Cache
